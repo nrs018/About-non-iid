@@ -20,7 +20,7 @@
 
 <p align="center"> $\lim\limits_{n \to \infty}{Loss_{n}} = 0$   </p>
 
-这个公式表示$Loss_{n}$收敛于0。
+这个公式表示 $Loss_{n}$ 收敛于0。
 
 
 ## 2. 两个模型的accuracy都在99.99%以上，那么他们会是无限相似吗？
