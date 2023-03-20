@@ -4,9 +4,15 @@
 
 首先，我们给出三种可能的答案，在后续的实验中不断地验证，究竟哪一个更正确些。
 
-  a. $M_{n}$表示第$n$次更新后的模型。
+  a. $M_{n}$表示第n次更新后的模型。
 
 $\lim\limits_{n \to \infty} ||M_{n+1}-M_{n}|| = 0$
+
+  b. $Loss_{n}$表示第n次更新后的损失函数。
+$\lim\limits_{n \to \infty} ||Loss_{n+1}-Loss_{n}|| = 0$  
+
+  c. $Loss_{n}$表示第n次更新后的损失函数。
+$\lim\limits_{n \to \infty}{Loss_{n}} = 0$  
 
 
 2. 两个模型的accuracy都在99.99%以上，那么他们会是无限相似吗？
