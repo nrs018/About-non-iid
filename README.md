@@ -11,11 +11,13 @@ $\lim\limits_{n \to \infty} ||M_{n+1}-M_{n}|| = 0$
 这个公式表示模型收敛于某个值/特定模型。
 
 > b. $Loss_{n}$表示第n次更新后的损失函数。
+
 $\lim\limits_{n \to \infty} ||Loss_{n+1}-Loss_{n}|| = 0$  
 
 这个公式表示$Loss_{n}$收敛于某个值。
 
 > c. $Loss_{n}$表示第n次更新后的损失函数。
+
 $\lim\limits_{n \to \infty}{Loss_{n}} = 0$  
 
 这个公式表示$Loss_{n}$收敛于0。
