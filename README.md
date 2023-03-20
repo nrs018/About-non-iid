@@ -42,8 +42,12 @@ A类：【B, W, W, B】
 小明|男|
 <table>
   <tr>
-    <td style="background-color: #ff0000;">一个单元格</td>
-    <td style="background-color: #00ff00;">另一个单元格</td>
+    <td style="background-color: black;">格</td>
+    <td style="background-color: white;">另</td>
+  </tr>
+  <tr>
+    <td style="background-color: #ff0000;">一</td>
+    <td style="background-color: #00ff00;">另</td>
   </tr>
 </table>
 
