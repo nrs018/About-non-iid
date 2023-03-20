@@ -42,7 +42,7 @@ A类：【B, W, W, B】
 小明|男|
 <table>
   <tr>
-    <td style="background-color: black;">格</td>
+    <td style="background-color:#33475b">格</td>
     <td style="background-color: white;">另</td>
   </tr>
   <tr>
