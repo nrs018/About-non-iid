@@ -40,6 +40,12 @@ A类：【B, W, W, B】
 学号|姓名|
 :-|:-:|
 小明|男|
+<table>
+  <tr>
+    <td style="background-color: #ff0000;">一个单元格</td>
+    <td style="background-color: #00ff00;">另一个单元格</td>
+  </tr>
+</table>
 
 B类：【W, B, W, B】
 
