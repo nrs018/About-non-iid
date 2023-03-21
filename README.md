@@ -55,16 +55,22 @@ B类：【W, B, W, B】
 
 C类：【W, W, B, B】
 
-<div>
-<table>
-<tbody>
-  <tr>
-<td bgcolor="red">
+<table width="500" border="1">
+        <tr>
+            <th>NAME</th>
+            <th>AGE</th>
+            <th>BRANCH</th>
+        </tr>
   
-This
-
-</td>
-    </tr>
-</tbody>
-</table>
-</div>
+        <tr>
+            <td bgcolor="green">BITTU</td>
+            <td bgcolor="red">22</td>
+            <td bgcolor="yellow">CSE</td>
+        </tr>
+  
+        <tr>
+            <td bgcolor="yellow">RAKESH</td>
+            <td bgcolor="green">25</td>
+            <td bgcolor="red">EC</td>
+        </tr>
+    </table>
