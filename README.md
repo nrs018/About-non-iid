@@ -42,8 +42,8 @@ A类：【B, W, W, B】
 小明|男|
 <table>
   <tr>
-    <td style="background-color:#33475b">格</td>
-    <td style="background-color: white;">另</td>
+    <td style="bgcolor:#33475b">格</td>
+    <td style="bgcolor: white;">另</td>
   </tr>
   <tr>
     <td style="background-color: #ff0000;">一</td>
@@ -55,22 +55,4 @@ B类：【W, B, W, B】
 
 C类：【W, W, B, B】
 
-<table>
-        <tr>
-            <th>NAME</th>
-            <th>AGE</th>
-            <th>BRANCH</th>
-        </tr>
-  
-        <tr>
-            <td bgcolor="green">BITTU</td>
-            <td bgcolor="red">22</td>
-            <td bgcolor="yellow">CSE</td>
-        </tr>
-  
-        <tr>
-            <td bgcolor="yellow">RAKESH</td>
-            <td bgcolor="green">25</td>
-            <td bgcolor="red">EC</td>
-        </tr>
-    </table>
+
