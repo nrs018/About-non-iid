@@ -55,7 +55,7 @@ B类：【W, B, W, B】
 
 C类：【W, W, B, B】
 
-<table width="500" border="1">
+<table>
         <tr>
             <th>NAME</th>
             <th>AGE</th>
