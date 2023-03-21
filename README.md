@@ -58,7 +58,7 @@ C类：【W, W, B, B】
 <div align="center">
 <table>
 <tbody>
-<td align="center" background-color="black">
+<td align="center" bg-color="black">
 
 <sub>This is text in the box. Much wow</sub><br>
 
