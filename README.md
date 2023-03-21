@@ -55,13 +55,13 @@ B类：【W, B, W, B】
 
 C类：【W, W, B, B】
 
-<div align="center">
+<div>
 <table>
 <tbody>
   <tr>
 <td bgcolor="red">
   
-This is text in the box.
+This
 
 </td>
     </tr>
