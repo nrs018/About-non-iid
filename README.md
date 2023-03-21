@@ -58,11 +58,13 @@ C类：【W, W, B, B】
 <div align="center">
 <table>
 <tbody>
-<td align="center" bgcolor="black">
-
+  <tr>
+<td bgcolor="red">
+  
 This is text in the box.
 
 </td>
+    </tr>
 </tbody>
 </table>
 </div>
