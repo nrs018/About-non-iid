@@ -55,8 +55,14 @@ B类：【W, B, W, B】
 
 C类：【W, W, B, B】
 
-
-| f\|oo  |
-| ------ |
-| b `\|` az |
-| b **\|** im |
+<div align="center">
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0"><br>
+<sub>This is text in the box. Much wow</sub><br>
+<img width="2000" height="0">
+</td>
+</tbody>
+</table>
+</div>
