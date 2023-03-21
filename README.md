@@ -56,7 +56,16 @@ B类：【W, B, W, B】
 C类：【W, W, B, B】
 
 ## Table Styling in Markdown
-
+table {border-collapse: collapse;
+    width: 100%;
+    border-radius: .8em;
+    overflow: hidden;}
+th, td {text-align: left;
+    padding: 8px;}
+tr:nth-child(odd){background-color: #abcdef}
+th {background-color: #4CAF50;
+    color: white;}
+td {color: purple;}
 <style>
     .heatMap {
         width: 70%;
