@@ -60,7 +60,7 @@ C类：【W, W, B, B】
 <tbody>
 <td align="center" bg-color="black">
 
-<sub>This is text in the box. Much wow</sub><br>
+This is text in the box.
 
 </td>
 </tbody>
